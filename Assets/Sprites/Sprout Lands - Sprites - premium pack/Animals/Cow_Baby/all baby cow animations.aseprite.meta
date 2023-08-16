@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 424eeddf7e8207644b939c1bf3a0248c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: all baby cow animations_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 288
+      height: 672
+    spriteID: 931bec071107b8440917d1ea9fdd6b36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: all baby cow animations_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 684
+      width: 288
+      height: 672
+    spriteID: 0697e7111ac5c1e4a91c2f488c3f6040
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 684}
+  - name: all baby cow animations_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1364
+      width: 288
+      height: 672
+    spriteID: 833a184a64788624e90e5bb0b762a066
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1364}
+  - name: all baby cow animations_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2044
+      width: 288
+      height: 672
+    spriteID: 39798e4aed480094394d763e6a324292
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2044}
+  - name: all baby cow animations_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2724
+      width: 288
+      height: 672
+    spriteID: a129ba5e20f8f3941a54c9f5dad88342
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2724}
+  - name: all baby cow animations_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3404
+      width: 288
+      height: 672
+    spriteID: 1086baece487e074d90f8e9fc819f651
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3404}
+  - name: all baby cow animations_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 4
+      width: 288
+      height: 672
+    spriteID: 14d2fecd86ff7f84397798c66680950f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 4}
+  - name: all baby cow animations_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 684
+      width: 288
+      height: 672
+    spriteID: d400efa07227d6049b9c07f03508f42d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 684}
+  - name: all baby cow animations_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 1364
+      width: 288
+      height: 672
+    spriteID: fd6e8a913e7b44c4db1443cc50105b12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 1364}
+  - name: all baby cow animations_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 2044
+      width: 288
+      height: 672
+    spriteID: 5cdaa0f11d6b8364b833bb0124dfb741
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 2044}
+  - name: all baby cow animations_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 2724
+      width: 288
+      height: 672
+    spriteID: c074bf67054d36645825374c41fccb37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 2724}
+  - name: all baby cow animations_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 300
+      y: 3404
+      width: 288
+      height: 672
+    spriteID: c7f5f3fd72ebbf14db1d05c0a17da600
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 300, y: 3404}
+  - name: all baby cow animations_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 4
+      width: 288
+      height: 672
+    spriteID: 5f0716597cc96a84399891b05b9da664
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 4}
+  - name: all baby cow animations_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 684
+      width: 288
+      height: 672
+    spriteID: 6bfc07b47c1570b42abf194b5a5a4cc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 684}
+  - name: all baby cow animations_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 1364
+      width: 288
+      height: 672
+    spriteID: 8ce91e8bc835198409329d53dc5d4099
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 1364}
+  - name: all baby cow animations_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 2044
+      width: 288
+      height: 672
+    spriteID: f46f44df4f8ea534cb89b24f93b6ea87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 2044}
+  - name: all baby cow animations_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 2724
+      width: 288
+      height: 672
+    spriteID: 49977f71418c3e644bd4b13207b053a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 2724}
+  - name: all baby cow animations_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 596
+      y: 3404
+      width: 288
+      height: 672
+    spriteID: 30056b2146dbe4c45b3033db4ed3d49b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 596, y: 3404}
+  - name: all baby cow animations_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 892
+      y: 4
+      width: 288
+      height: 672
+    spriteID: dc5ef7e13df195847976d237bc011f56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 4}
+  - name: all baby cow animations_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 892
+      y: 684
+      width: 288
+      height: 672
+    spriteID: 51350135dccc71d448379d112b30e2e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 684}
+  - name: all baby cow animations_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 892
+      y: 1364
+      width: 288
+      height: 672
+    spriteID: eaf93cb25bb12a449a47fe3be7f058e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 1364}
+  - name: all baby cow animations_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 892
+      y: 2044
+      width: 288
+      height: 672
+    spriteID: aff76074bd78fff4ab303788a79e8df4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 2044}
+  - name: all baby cow animations_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 892
+      y: 2724
+      width: 288
+      height: 672
+    spriteID: d9b6cbda7c61d314fa872b764d9826e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 2724}
+  - name: all baby cow animations_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 892
+      y: 3404
+      width: 288
+      height: 672
+    spriteID: 3b22d3e18c326a449a0d8e7bd3c1ac99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 892, y: 3404}
+  - name: all baby cow animations_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1188
+      y: 4
+      width: 288
+      height: 672
+    spriteID: 2a9960afd73fe824da5f53fc5fc0556d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1188, y: 4}
+  - name: all baby cow animations_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1188
+      y: 684
+      width: 288
+      height: 672
+    spriteID: af288ace7a095f04693509bd934c2f74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1188, y: 684}
+  - name: all baby cow animations_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1188
+      y: 1364
+      width: 288
+      height: 672
+    spriteID: 7cadc5a49f7a34a47951f897bd427b7a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1188, y: 1364}
+  - name: all baby cow animations_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1188
+      y: 2044
+      width: 288
+      height: 672
+    spriteID: 70d013db3a353d94fab2d62dafba5bb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1188, y: 2044}
+  - name: all baby cow animations_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1188
+      y: 2724
+      width: 288
+      height: 672
+    spriteID: 3252ddcc99975e34a8e9acf93e85f067
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1188, y: 2724}
+  - name: all baby cow animations_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1188
+      y: 3404
+      width: 288
+      height: 672
+    spriteID: f223636637d27524790c5fe442eba058
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1188, y: 3404}
+  - name: all baby cow animations_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1484
+      y: 4
+      width: 288
+      height: 672
+    spriteID: fa25d689b6167204aa560b79a381e8cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1484, y: 4}
+  - name: all baby cow animations_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1484
+      y: 684
+      width: 288
+      height: 672
+    spriteID: f099c82625b896042ae35448d9d3ff87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1484, y: 684}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -381348505
+    name: all baby cow animations
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: all baby cow animations_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 931bec071107b8440917d1ea9fdd6b36
+    - name: all baby cow animations_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 0697e7111ac5c1e4a91c2f488c3f6040
+    - name: all baby cow animations_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 833a184a64788624e90e5bb0b762a066
+    - name: all baby cow animations_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 39798e4aed480094394d763e6a324292
+    - name: all baby cow animations_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: a129ba5e20f8f3941a54c9f5dad88342
+    - name: all baby cow animations_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 1086baece487e074d90f8e9fc819f651
+    - name: all baby cow animations_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 14d2fecd86ff7f84397798c66680950f
+    - name: all baby cow animations_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: d400efa07227d6049b9c07f03508f42d
+    - name: all baby cow animations_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: fd6e8a913e7b44c4db1443cc50105b12
+    - name: all baby cow animations_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 5cdaa0f11d6b8364b833bb0124dfb741
+    - name: all baby cow animations_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: c074bf67054d36645825374c41fccb37
+    - name: all baby cow animations_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: c7f5f3fd72ebbf14db1d05c0a17da600
+    - name: all baby cow animations_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 5f0716597cc96a84399891b05b9da664
+    - name: all baby cow animations_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 6bfc07b47c1570b42abf194b5a5a4cc1
+    - name: all baby cow animations_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 8ce91e8bc835198409329d53dc5d4099
+    - name: all baby cow animations_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: f46f44df4f8ea534cb89b24f93b6ea87
+    - name: all baby cow animations_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 49977f71418c3e644bd4b13207b053a2
+    - name: all baby cow animations_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 30056b2146dbe4c45b3033db4ed3d49b
+    - name: all baby cow animations_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: dc5ef7e13df195847976d237bc011f56
+    - name: all baby cow animations_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 51350135dccc71d448379d112b30e2e1
+    - name: all baby cow animations_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: eaf93cb25bb12a449a47fe3be7f058e5
+    - name: all baby cow animations_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: aff76074bd78fff4ab303788a79e8df4
+    - name: all baby cow animations_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: d9b6cbda7c61d314fa872b764d9826e3
+    - name: all baby cow animations_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 3b22d3e18c326a449a0d8e7bd3c1ac99
+    - name: all baby cow animations_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 2a9960afd73fe824da5f53fc5fc0556d
+    - name: all baby cow animations_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: af288ace7a095f04693509bd934c2f74
+    - name: all baby cow animations_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 7cadc5a49f7a34a47951f897bd427b7a
+    - name: all baby cow animations_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 70d013db3a353d94fab2d62dafba5bb7
+    - name: all baby cow animations_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: 3252ddcc99975e34a8e9acf93e85f067
+    - name: all baby cow animations_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: f223636637d27524790c5fe442eba058
+    - name: all baby cow animations_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: fa25d689b6167204aa560b79a381e8cf
+    - name: all baby cow animations_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: -352
+        width: 288
+        height: 672
+      spriteId: f099c82625b896042ae35448d9d3ff87
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 288, y: 288}
